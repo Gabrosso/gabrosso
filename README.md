@@ -4,6 +4,6 @@
 
 [![Gabriela GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrosso)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=gabrosso&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langs/?username=gabrosso&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
