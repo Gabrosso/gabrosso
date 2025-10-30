@@ -21,7 +21,7 @@ I’m looking to expand my skills in Back-end to become a *Full stack* developer
  ---
  
 <div>
-<a href = "in/gabrielarosso">
+<a href = "in/gabriela-rosso">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
