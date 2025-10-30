@@ -4,7 +4,7 @@
  
 I'm Gabriela, currently graduating in Development.
 
-I’m looking to expand my skills in Back-end to become a *Full stack* developer.
+I’m looking to expand my skills to become a *Full stack* developer.
 
  <img height= "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrosso&show_icons=true&theme=bear&count_private=true"/>
 
